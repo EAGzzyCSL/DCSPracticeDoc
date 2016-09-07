@@ -1,0 +1,48 @@
+{
+    "domain_siblings": [],
+    "whois": "   Domain Name: 42WORLD.NET\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 06-jan-2016\n   Creation Date: 05-feb-2015\n   Expiration Date: 05-feb-2017\n\nYou have been banned for abuse.",
+    "whois_timestamp": 1471883990.06873,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-11-22 00:00:00",
+            "ip_address": "184.168.221.89"
+        },
+        {
+            "last_resolved": "2013-07-25 00:00:00",
+            "ip_address": "216.246.45.15"
+        },
+        {
+            "last_resolved": "2015-02-09 00:00:00",
+            "ip_address": "69.195.129.72"
+        },
+        {
+            "last_resolved": "2014-11-10 00:00:00",
+            "ip_address": "95.211.172.143"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://42world.net/",
+            "positives": 2,
+            "total": 68,
+            "scan_date": "2016-08-19 07:39:46"
+        },
+        {
+            "url": "http://42world.net/ferari/yahoo/banner4.php",
+            "positives": 3,
+            "total": 67,
+            "scan_date": "2016-04-24 07:03:58"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "   Domain Name: ADOBEARM.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 01-feb-2016\n   Creation Date: 02-mar-2015\n   Expiration Date: 02-mar-2017\n\nDomain Name: ADOBEARM.COM\nRegistry Domain ID: 1906514733_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.dynadot.com\nRegistrar URL: http://www.dynadot.com\nUpdated Date: 2016-05-11T19:52:14.0Z\nCreation Date: 2015-03-02T10:40:53.0Z\nRegistrar Registration Expiration Date: 2017-03-02T10:40:53.0Z\nRegistrar: DYNADOT LLC\nRegistrar IANA ID: 472\nRegistrar Abuse Contact Email: abuse@dynadot.com\nRegistrar Abuse Contact Phone: +1.6502620100\nDomain Status: clientTransferProhibited\nRegistry Registrant ID: \nRegistrant Name: Authorized Representative\nRegistrant Organization: Kleissner & Associates s.r.o.\nRegistrant Street: Na strzi 1702/65\nRegistrant City: Praha\nRegistrant Postal Code: 140 00\nRegistrant Country: CZ\nRegistrant Phone: +420.00000000\nRegistrant Email: domains@virustracker.info\nRegistry Admin ID: \nAdmin Name: Authorized Representative\nAdmin Organization: Kleissner & Associates s.r.o.\nAdmin Street: Na strzi 1702/65\nAdmin City: Praha\nAdmin Postal Code: 140 00\nAdmin Country: CZ\nAdmin Phone: +420.00000000\nAdmin Email: domains@virustracker.info\nRegistry Tech ID: \nTech Name: Authorized Representative\nTech Organization: Kleissner & Associates s.r.o.\nTech Street: Na strzi 1702/65\nTech City: Praha\nTech Postal Code: 140 00\nTech Country: CZ\nTech Phone: +420.00000000\nTech Email: domains@virustracker.info\nName Server: ns1.dynadot.com\nName Server: ns2.dynadot.com\nDNSSEC: unsigned",
+    "whois_timestamp": 1467078661.4408,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-01-11 00:00:00",
+            "ip_address": "101.99.69.11"
+        },
+        {
+            "last_resolved": "2014-01-02 00:00:00",
+            "ip_address": "101.99.69.12"
+        },
+        {
+            "last_resolved": "2014-12-15 00:00:00",
+            "ip_address": "209.99.40.222"
+        },
+        {
+            "last_resolved": "2014-12-15 00:00:00",
+            "ip_address": "209.99.40.223"
+        },
+        {
+            "last_resolved": "2015-03-06 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://adobearm.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-02 02:20:52"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

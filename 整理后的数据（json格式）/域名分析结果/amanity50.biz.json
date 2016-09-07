@@ -1,0 +1,47 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "Domain Name:                                 AMANITY50.BIZ\nDomain ID:                                   D64622395-BIZ\nSponsoring Registrar:                        DYNADOT LLC\nSponsoring Registrar IANA ID:                472\nRegistrar URL (registration services):       whois.dynadot.com\nDomain Status:                               clientTransferProhibited\nVariant:                                     AMANITY50.BIZ\nRegistrant ID:                               C-165222\nRegistrant Name:                             Authorized Representative\nRegistrant Organization:                     Kleissner  Associates s.r.o.\nRegistrant Address1:                         Na strzi 1702/65\nRegistrant City:                             Praha\nRegistrant Postal Code:                      140 00\nRegistrant Country:                          Czech Republic\nRegistrant Country Code:                     CZ\nRegistrant Phone Number:                     +420.00000000\nRegistrant Email:                            domains@virustracker.info\nAdministrative Contact ID:                   C-165222\nAdministrative Contact Name:                 Authorized Representative\nAdministrative Contact Organization:         Kleissner  Associates s.r.o.\nAdministrative Contact Address1:             Na strzi 1702/65\nAdministrative Contact City:                 Praha\nAdministrative Contact Postal Code:          140 00\nAdministrative Contact Country:              Czech Republic\nAdministrative Contact Country Code:         CZ\nAdministrative Contact Phone Number:         +420.00000000\nAdministrative Contact Email:                domains@virustracker.info\nBilling Contact ID:                          C-165222\nBilling Contact Name:                        Authorized Representative\nBilling Contact Organization:                Kleissner  Associates s.r.o.\nBilling Contact Address1:                    Na strzi 1702/65\nBilling Contact City:                        Praha\nBilling Contact Postal Code:                 140 00\nBilling Contact Country:                     Czech Republic\nBilling Contact Country Code:                CZ\nBilling Contact Phone Number:                +420.00000000\nBilling Contact Email:                       domains@virustracker.info\nTechnical Contact ID:                        C-165222\nTechnical Contact Name:                      Authorized Representative\nTechnical Contact Organization:              Kleissner  Associates s.r.o.\nTechnical Contact Address1:                  Na strzi 1702/65\nTechnical Contact City:                      Praha\nTechnical Contact Postal Code:               140 00\nTechnical Contact Country:                   Czech Republic\nTechnical Contact Country Code:              CZ\nTechnical Contact Phone Number:              +420.00000000\nTechnical Contact Email:                     domains@virustracker.info\nName Server:                                 NS2.DYNADOT.COM\nName Server:                                 NS1.DYNADOT.COM\nCreated by Registrar:                        DYNADOT LLC\nLast Updated by Registrar:                   DYNADOT LLC\nDomain Registration Date:                    Fri Apr 24 18:42:39 GMT 2015\nDomain Expiration Date:                      Sun Apr 23 23:59:59 GMT 2017\nDomain Last Updated Date:                    Fri Mar 25 10:51:36 GMT 2016\nDNSSEC:                                      false",
+    "whois_timestamp": 1470193669.40727,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "31.22.4.96"
+        },
+        {
+            "last_resolved": "2015-03-15 00:00:00",
+            "ip_address": "50.63.202.76"
+        },
+        {
+            "last_resolved": "2015-04-28 00:00:00",
+            "ip_address": "69.195.129.70"
+        },
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "69.195.129.72"
+        },
+        {
+            "last_resolved": "2014-11-10 00:00:00",
+            "ip_address": "95.211.172.143"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://amanity50.biz/",
+            "positives": 2,
+            "total": 68,
+            "scan_date": "2016-08-04 01:35:12"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

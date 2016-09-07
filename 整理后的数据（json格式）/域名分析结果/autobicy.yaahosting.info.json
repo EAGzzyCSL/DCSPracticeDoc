@@ -1,0 +1,29 @@
+{
+    "domain_siblings": [
+        "www.yaahosting.info"
+    ],
+    "whois": "Domain Name: YAAHOSTING.INFO\nDomain ID: D19366733-LRMS\nWHOIS Server:\nReferral URL: http://www.wildwestdomains.com\nUpdated Date: 2014-07-14T15:18:06Z\nCreation Date: 2007-08-13T15:52:45Z\nRegistry Expiry Date: 2016-08-13T15:52:45Z\nSponsoring Registrar: Wild West Domains, LLC\nSponsoring Registrar IANA ID: 440\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nRegistrant ID: CR124737056\nRegistrant Name: Registration Private\nRegistrant Organization: Domains By Proxy, LLC\nRegistrant Street: DomainsByProxy.com\nRegistrant Street: 14747 N Northsight Blvd Suite 111, PMB 309\nRegistrant City: Scottsdale\nRegistrant State/Province: Arizona\nRegistrant Postal Code: 85260\nRegistrant Country: US\nRegistrant Phone: +1.4806242599\nRegistrant Phone Ext:\nRegistrant Fax: +1.4806242598\nRegistrant Fax Ext:\nRegistrant Email: YAAHOSTING.INFO@domainsbyproxy.com\nAdmin ID: CR124737060\nAdmin Name: Registration Private\nAdmin Organization: Domains By Proxy, LLC\nAdmin Street: DomainsByProxy.com\nAdmin Street: 14747 N Northsight Blvd Suite 111, PMB 309\nAdmin City: Scottsdale\nAdmin State/Province: Arizona\nAdmin Postal Code: 85260\nAdmin Country: US\nAdmin Phone: +1.4806242599\nAdmin Phone Ext:\nAdmin Fax: +1.4806242598\nAdmin Fax Ext:\nAdmin Email: YAAHOSTING.INFO@domainsbyproxy.com\nTech ID: CR124737058\nTech Name: Registration Private\nTech Organization: Domains By Proxy, LLC\nTech Street: DomainsByProxy.com\nTech Street: 14747 N Northsight Blvd Suite 111, PMB 309\nTech City: Scottsdale\nTech State/Province: Arizona\nTech Postal Code: 85260\nTech Country: US\nTech Phone: +1.4806242599\nTech Phone Ext:\nTech Fax: +1.4806242598\nTech Fax Ext:\nTech Email: YAAHOSTING.INFO@domainsbyproxy.com\nBilling ID: CR124737062\nBilling Name: Registration Private\nBilling Organization: Domains By Proxy, LLC\nBilling Street: DomainsByProxy.com\nBilling Street: 14747 N Northsight Blvd Suite 111, PMB 309\nBilling City: Scottsdale\nBilling State/Province: Arizona\nBilling Postal Code: 85260\nBilling Country: US\nBilling Phone: +1.4806242599\nBilling Phone Ext:\nBilling Fax: +1.4806242598\nBilling Fax Ext:\nBilling Email: YAAHOSTING.INFO@domainsbyproxy.com\nName Server: NS1.TSOHOST.CO.UK\nName Server: NS2.TSOHOST.CO.UK\nName Server: NS3.TSOHOST.CO.UK\nDNSSEC: unsigned",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "pcaps": [
+        "0ff6a87bf1de659db87e87e6483bc89facbd91fc5bf94b82d566319902c47751"
+    ],
+    "resolutions": [],
+    "detected_urls": [
+        {
+            "url": "http://autobicy.yaahosting.info/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-06-19 17:19:17"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

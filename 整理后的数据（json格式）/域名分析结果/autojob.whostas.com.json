@@ -1,0 +1,29 @@
+{
+    "BitDefender category": "education",
+    "domain_siblings": [
+        "eselling.whostas.com",
+        "privatepanel.whostas.com"
+    ],
+    "whois": "   Domain Name: WHOSTAS.COM\n   Registrar: ENOM, INC.\n   Sponsoring Registrar IANA ID: 48\n   Whois Server: whois.enom.com\n   Referral URL: http://www.enom.com\n   Name Server: NS1.USERS.HAPHOST.COM\n   Name Server: NS2.USERS.HAPHOST.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 20-dec-2015\n   Creation Date: 19-mar-2010\n   Expiration Date: 19-mar-2017\n\nDomain Name: WHOSTAS.COM\nRegistry Domain ID: 1589385766_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.enom.com\nRegistrar URL: www.enom.com\nUpdated Date: 2015-06-03T16:30:23.00Z\nCreation Date: 2010-03-19T12:08:49.00Z\nRegistrar Registration Expiration Date: 2017-03-19T12:08:00.00Z\nRegistrar: ENOM, INC.\nRegistrar IANA ID: 48\nDomain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited\nRegistry Registrant ID: \nRegistrant Name: HOST1PLUS WEBMASTER\nRegistrant Organization: DIGITAL ENERGY TECHNOLOGIES LTD.\nRegistrant Street: 26 YORK STREET\nRegistrant City: LONDON\nRegistrant State/Province: MAYFAIR\nRegistrant Postal Code: W1U 6PZ\nRegistrant Country: GB\nRegistrant Phone: +44.8708200222\nRegistrant Phone Ext: \nRegistrant Fax: +44.8708200222\nRegistrant Fax Ext:\nRegistrant Email: INFO@HOST1PLUS.COM\nRegistry Admin ID: \nAdmin Name: HOST1PLUS WEBMASTER\nAdmin Organization: DIGITAL ENERGY TECHNOLOGIES LTD.\nAdmin Street: 26 YORK STREET\nAdmin City: LONDON\nAdmin State/Province: MAYFAIR\nAdmin Postal Code: W1U 6PZ\nAdmin Country: GB\nAdmin Phone: +44.8708200222\nAdmin Phone Ext: \nAdmin Fax: +44.8708200222\nAdmin Fax Ext:\nAdmin Email: INFO@HOST1PLUS.COM\nRegistry Tech ID: \nTech Name: HOST1PLUS WEBMASTER\nTech Organization: DIGITAL ENERGY TECHNOLOGIES LTD.\nTech Street: 26 YORK STREET\nTech City: LONDON\nTech State/Province: MAYFAIR\nTech Postal Code: W1U 6PZ\nTech Country: GB\nTech Phone: +44.8708200222\nTech Phone Ext: \nTech Fax: +44.8708200222\nTech Fax Ext: \nTech Email: INFO@HOST1PLUS.COM\nName Server: NS1.USERS.HAPHOST.COM\nName Server: NS2.USERS.HAPHOST.COM\nDNSSEC: unSigned\nRegistrar Abuse Contact Email: abuse@enom.com\nRegistrar Abuse Contact Phone: +1.4252982646",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [],
+    "detected_urls": [
+        {
+            "url": "http://autojob.whostas.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-01 06:26:28"
+        }
+    ],
+    "categories": [
+        "education",
+        "bot networks. advanced malware command and control"
+    ]
+}

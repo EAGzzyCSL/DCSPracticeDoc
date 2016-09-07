@@ -1,0 +1,77 @@
+{
+    "BitDefender category": "business",
+    "domain_siblings": [
+        "www.mukorom.200gigs.com",
+        "sentocoo.200gigs.com",
+        "www.200gigs.com",
+        "stloelementry.200gigs.com",
+        "vkontakte.200gigs.com",
+        "ww6.200gigs.com",
+        "ww4.200gigs.com",
+        "ww42.200gigs.com"
+    ],
+    "whois": "   Domain Name: 200GIGS.COM\n   Registrar: UNIREGISTRAR CORP\n   Sponsoring Registrar IANA ID: 1659\n   Whois Server: whois.uniregistrar.com\n   Referral URL: http://www.uniregistrar.com\n   Name Server: BUY.INTERNETTRAFFIC.COM\n   Name Server: SELL.INTERNETTRAFFIC.COM\n   Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 28-jan-2015\n   Creation Date: 27-nov-2008\n   Expiration Date: 27-nov-2016\n\nDomain Name: 200GIGS.COM\nRegistry Domain ID: 1530479121_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.uniregistrar.net\nRegistrar URL: http://uniregistry.com\nUpdated Date: 2015-01-28-T05:17:23Z\nCreation Date: 2008-11-27-T20:29:41Z\nRegistrar Registration Expiration Date: 2016-11-27-T20:29:41Z \nRegistrar: UNIREGISTRAR CORP\nRegistrar IANA ID: 1659\nRegistrar Abuse Contact Email: abuse@uniregistry.com\nRegistrar Abuse Contact Phone: +1.9494785380\nDomain Status: clientDeleteProhibited\nDomain Status: clientRenewProhibited\nDomain Status: clientTransferProhibited\nRegistry Registrant ID: UNIREGNXDD1K5GX\nRegistrant Name: PRIVACYDOTLINK CUSTOMER 309206\nRegistrant Organization: \nRegistrant Street: PO BOX 30485   \nRegistrant City: SEVEN MILE BEACH\nRegistrant State/Province: GRAND CAYMAN\nRegistrant Postal Code: KY1-1202\nRegistrant Country: KY\nRegistrant Phone: +1.3457495465\nRegistrant Phone Ext: \nRegistrant Fax: \nRegistrant Fax Ext: \nRegistrant Email: 309206@PRIVACY-LINK.COM\nRegistry Admin ID: UNIREGNXDD1K5GX\nAdmin Name: PRIVACYDOTLINK CUSTOMER 309206\nAdmin Organization: \nAdmin Street: PO BOX 30485   \nAdmin City: SEVEN MILE BEACH\nAdmin State/Province: GRAND CAYMAN\nAdmin Postal Code: KY1-1202\nAdmin Country: KY\nAdmin Phone: +1.3457495465\nAdmin Phone Ext: \nAdmin Fax: \nAdmin Fax Ext: \nAdmin Email: 309206@PRIVACY-LINK.COM\nRegistry Tech ID: UNIREGNXDD1K5GX\nTech Name: PRIVACYDOTLINK CUSTOMER 309206\nTech Organization: \nTech Street: PO BOX 30485   \nTech City: SEVEN MILE BEACH\nTech State/Province: GRAND CAYMAN\nTech Postal Code: KY1-1202\nTech Country: KY\nTech Phone: +1.3457495465\nTech Phone Ext: \nTech Fax: \nTech Fax Ext: \nTech Email: 309206@PRIVACY-LINK.COM\nName Server: buy.internettraffic.com\nName Server: sell.internettraffic.com\nDNSSEC: unsigned",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "pcaps": [
+        "0ff6a87bf1de659db87e87e6483bc89facbd91fc5bf94b82d566319902c47751"
+    ],
+    "resolutions": [
+        {
+            "last_resolved": "2013-07-19 00:00:00",
+            "ip_address": "208.91.197.104"
+        },
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "209.15.13.134"
+        },
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "216.151.212.175"
+        },
+        {
+            "last_resolved": "2016-05-24 00:00:00",
+            "ip_address": "69.172.201.153"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "69.172.201.208"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://automobile.200gigs.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-01 03:49:47"
+        },
+        {
+            "url": "http://automobile.200gigs.com/patch/chkupdate.php?a1=SElgOzwiN3pQLzoMFA==",
+            "positives": 3,
+            "total": 66,
+            "scan_date": "2016-01-14 07:19:59"
+        },
+        {
+            "url": "http://automobile.200gigs.com/patch/chkupdate.php?a1=SElgOzwiN3pQLzoMFA==&a2=ec73ba2534acb59176dd5f66716f9217&a3=RBsidmgUPjtdGzwdCWpybBgMLR4HBQYOMzU3CQIEAA0SGD4tPDMiLBIrb1BLfnh1ZXUeOXBpBGxcKlprGGttd1gwPjwtK28aVG4XHRQkYB5laT8bG2kCeVFLTH59a31tOFljZnp3AAAHci0KRWobNT89GSZuBhR2XDcTKD8kPiIeDXAfISkjJwo9byAramAfKTsKIi0sZxwdGRFrfmJxLwpHcAYtM2crHDwrWEFqeXxieVJ5YHhybFxSLAl0DnR6Sj8RfGVwf307CA5ISGpmYmJnUmV/Z3dsXFpaaxsJAhVYMREaDAMOGzZncxoJdA==",
+            "positives": 3,
+            "total": 66,
+            "scan_date": "2016-01-13 20:14:16"
+        },
+        {
+            "url": "http://automobile.200gigs.com/patch/chkupdate.php?a1=SElgOzwiN3pQLzoMFA==&a2=fde7cccc3957af9b0c235ce40a78ac9d&a3=RBsidmgUPjtdGzwdCWpybAQGMQ5jBgEKUT5PDX0KDg08GCYtaG93fE13ZkQZOHZsD2lcG25pEmxcQFoaCAYYbS4QIjw9JitoPh4aWA0vOj8lJhJrfmd+Yk1GGDlzax40Cw01JWgIFHJdAyYbCSU7Iyo9XBwnJyMjCwlaEx1rZR4dCyYhKyJnGBwtJFhIY3QuPndcBSs9Zy8dCB5rd2t8ekpXYX5mdWl+SW5vUCoHeHx8eU1rbmlnbFxaWmtta21tVld+ZmZpd2ZEYH5YW2oABRgIPwMHaQ8",
+            "positives": 4,
+            "total": 62,
+            "scan_date": "2015-03-19 14:04:32"
+        }
+    ],
+    "categories": [
+        "business",
+        "bot networks. advanced malware command and control"
+    ]
+}

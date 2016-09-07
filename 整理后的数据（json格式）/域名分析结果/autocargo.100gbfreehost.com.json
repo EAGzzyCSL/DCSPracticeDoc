@@ -1,0 +1,58 @@
+{
+    "BitDefender category": "parked",
+    "domain_siblings": [
+        "iykujtyrhtfdc.100gbfreehost.com",
+        "www.100gbfreehost.com",
+        "special-world-cup.100gbfreehost.com",
+        "rewards.100gbfreehost.com",
+        "prizebonuslottery.100gbfreehost.com",
+        "pelangidzaki.100gbfreehost.com",
+        "lottry-bonus-golden-award.100gbfreehost.com",
+        "freechipsfrom-newforumzynga.100gbfreehost.com",
+        "clickheregoldenreward.100gbfreehost.com",
+        "chips-holdembonus.100gbfreehost.com",
+        "centralnet.100gbfreehost.com",
+        "nfyshiuysa.100gbfreehost.com"
+    ],
+    "whois": "   Domain Name: 100GBFREEHOST.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 18-feb-2016\n   Creation Date: 18-mar-2015\n   Expiration Date: 18-mar-2017\n\nYou have exceeded your access quota. Please try again later.",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-08-02 00:00:00",
+            "ip_address": "208.87.35.103"
+        },
+        {
+            "last_resolved": "2014-05-27 00:00:00",
+            "ip_address": "54.72.11.253"
+        },
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://autocargo.100gbfreehost.com/patch/chkupdate.php",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-23 06:21:21"
+        },
+        {
+            "url": "http://autocargo.100gbfreehost.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-02 02:19:28"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control",
+        "parked"
+    ]
+}

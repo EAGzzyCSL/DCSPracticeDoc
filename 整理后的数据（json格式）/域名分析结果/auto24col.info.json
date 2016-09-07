@@ -1,0 +1,66 @@
+{
+    "domain_siblings": [],
+    "whois": "Domain Name: AUTO24COL.INFO\nDomain ID: D49868913-LRMS\nWHOIS Server:\nReferral URL: http://www.godaddy.com\nUpdated Date: 2016-05-10T10:39:31Z\nCreation Date: 2013-05-09T18:29:56Z\nRegistry Expiry Date: 2017-05-09T18:29:56Z\nSponsoring Registrar: GoDaddy.com, LLC\nSponsoring Registrar IANA ID: 146\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod\nRegistrant ID: CR142935594\nRegistrant Name: Registration Private\nRegistrant Organization: Domains By Proxy, LLC\nRegistrant Street: DomainsByProxy.com\nRegistrant Street: 14747 N Northsight Blvd Suite 111, PMB 309\nRegistrant City: Scottsdale\nRegistrant State/Province: Arizona\nRegistrant Postal Code: 85260\nRegistrant Country: US\nRegistrant Phone: +1.4806242599\nRegistrant Phone Ext:\nRegistrant Fax: +1.4806242598\nRegistrant Fax Ext:\nRegistrant Email: AUTO24COL.INFO@domainsbyproxy.com\nAdmin ID: CR142935596\nAdmin Name: Registration Private\nAdmin Organization: Domains By Proxy, LLC\nAdmin Street: DomainsByProxy.com\nAdmin Street: 14747 N Northsight Blvd Suite 111, PMB 309\nAdmin City: Scottsdale\nAdmin State/Province: Arizona\nAdmin Postal Code: 85260\nAdmin Country: US\nAdmin Phone: +1.4806242599\nAdmin Phone Ext:\nAdmin Fax: +1.4806242598\nAdmin Fax Ext:\nAdmin Email: AUTO24COL.INFO@domainsbyproxy.com\nTech ID: CR142935595\nTech Name: Registration Private\nTech Organization: Domains By Proxy, LLC\nTech Street: DomainsByProxy.com\nTech Street: 14747 N Northsight Blvd Suite 111, PMB 309\nTech City: Scottsdale\nTech State/Province: Arizona\nTech Postal Code: 85260\nTech Country: US\nTech Phone: +1.4806242599\nTech Phone Ext:\nTech Fax: +1.4806242598\nTech Fax Ext:\nTech Email: AUTO24COL.INFO@domainsbyproxy.com\nBilling ID: CR142935597\nBilling Name: Registration Private\nBilling Organization: Domains By Proxy, LLC\nBilling Street: DomainsByProxy.com\nBilling Street: 14747 N Northsight Blvd Suite 111, PMB 309\nBilling City: Scottsdale\nBilling State/Province: Arizona\nBilling Postal Code: 85260\nBilling Country: US\nBilling Phone: +1.4806242599\nBilling Phone Ext:\nBilling Fax: +1.4806242598\nBilling Fax Ext:\nBilling Email: AUTO24COL.INFO@domainsbyproxy.com\nName Server: NS1.ECHO-SOURCE.COM\nName Server: NS2.ECHO-SOURCE.COM\nDNSSEC: unsigned",
+    "whois_timestamp": 1465272399.5865,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "184.168.221.94"
+        },
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "31.22.4.96"
+        }
+    ],
+    "detected_communicating_samples": [
+        {
+            "date": "2016-01-24 02:22:02",
+            "positives": 43,
+            "total": 55,
+            "sha256": "8c81db5bc013d1b3e04d1a17d6dbddbf1915366dc3576fc4d8af0533bc14e3ae"
+        },
+        {
+            "date": "2016-01-11 23:31:02",
+            "positives": 43,
+            "total": 56,
+            "sha256": "5f5dbea015584ca41974d1f158c9ff096ae1fc4b1a45f91bdd671fea25c494a4"
+        },
+        {
+            "date": "2015-07-29 06:53:59",
+            "positives": 40,
+            "total": 56,
+            "sha256": "434494ce03505ce38e25cdc5bc12f1dae7ed6a492f902248c91e52c9e87c5d07"
+        },
+        {
+            "date": "2015-03-23 18:35:39",
+            "positives": 34,
+            "total": 56,
+            "sha256": "b6d0f2135046a6498f9d9bda92aa9b7872dd3dd72d90f33d5b036d1706961ac0"
+        },
+        {
+            "date": "2015-03-23 15:32:02",
+            "positives": 35,
+            "total": 57,
+            "sha256": "0852393646ec7f8b4540b2bb5d1e7f909c86b624a94c480b26f9bfe85f30624e"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://auto24col.info/",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-06-07 04:02:46"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

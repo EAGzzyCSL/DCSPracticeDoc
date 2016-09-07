@@ -1,0 +1,33 @@
+{
+    "domain_siblings": [],
+    "whois": null,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-06-24 00:00:00",
+            "ip_address": "101.99.69.11"
+        },
+        {
+            "last_resolved": "2015-03-05 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://applyinfo.org/",
+            "positives": 6,
+            "total": 67,
+            "scan_date": "2016-06-28 01:26:45"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

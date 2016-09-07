@@ -1,0 +1,47 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "   Domain Name: ACROBATUP.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 01-feb-2016\n   Creation Date: 02-mar-2015\n   Expiration Date: 02-mar-2017\n\nYou have exceeded your access quota. Please try again later.",
+    "whois_timestamp": 1461328591.56935,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-02-17 00:00:00",
+            "ip_address": "199.168.184.169"
+        },
+        {
+            "last_resolved": "2014-12-15 00:00:00",
+            "ip_address": "209.99.40.222"
+        },
+        {
+            "last_resolved": "2014-12-15 00:00:00",
+            "ip_address": "209.99.40.223"
+        },
+        {
+            "last_resolved": "2014-08-07 00:00:00",
+            "ip_address": "23.239.159.22"
+        },
+        {
+            "last_resolved": "2015-03-06 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://acrobatup.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-07-23 08:32:53"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

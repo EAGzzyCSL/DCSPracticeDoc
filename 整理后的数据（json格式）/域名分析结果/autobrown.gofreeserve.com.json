@@ -1,0 +1,46 @@
+{
+    "domain_siblings": [
+        "www.gofreeserve.com",
+        "ftp.gofreeserve.com"
+    ],
+    "whois": "   Domain Name: GOFREESERVE.COM\n   Registrar: NETEARTH ONE INC. D/B/A NETEARTH\n   Sponsoring Registrar IANA ID: 1005\n   Whois Server: whois.advancedregistrar.com\n   Referral URL: http://www.netearthone.com\n   Name Server: NS1.LAMPNETWORKS.COM\n   Name Server: NS11.LAMPNETWORKS.COM\n   Name Server: NS12.LAMPNETWORKS.COM\n   Name Server: NS2.LAMPNETWORKS.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 02-aug-2014\n   Creation Date: 15-nov-2007\n   Expiration Date: 15-nov-2017\n\nDomain Name: GOFREESERVE.COM\nRegistry Domain ID: 1333576186_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.netearthone.com\nRegistrar URL: http://www.netearthone.com\nUpdated Date: 2014-05-07T23:24:58Z\nCreation Date: 2007-11-15T17:13:04Z\nRegistrar Registration Expiration Date: 2017-11-15T17:13:04Z\nRegistrar: NetEarth One, Inc.\nRegistrar IANA ID: 1005\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nRegistry Registrant ID: \nRegistrant Name: Domain Admin\nRegistrant Organization: WHOIS IDCPrivacy Service c/o IDC (BVI) Limited\nRegistrant City: London\nRegistrant State/Province: London\nRegistrant Postal Code: E14 9NN\nRegistrant Country: GB\nRegistrant Phone: +44.2030262854\nRegistrant Phone Ext: \nRegistrant Fax: \nRegistrant Fax Ext: \nRegistrant Email: contact@idcprivacy.com\nRegistry Admin ID: \nAdmin Name: Domain Admin\nAdmin Organization: WHOIS IDCPrivacy Service c/o IDC (BVI) Limited\nAdmin Street: First Floor, 5 Greenwich View Place Visit www.idcprivacy.com to contact the domain contacts. Email to contact@idcprivacy.com for alternative instructions. \nAdmin City: London\nAdmin State/Province: London\nAdmin Postal Code: E14 9NN\nAdmin Country: GB\nAdmin Phone: +44.2030262854\nAdmin Phone Ext: \nAdmin Fax: \nAdmin Fax Ext: \nAdmin Email: contact@idcprivacy.com\nRegistry Tech ID: \nTech Name: Domain Admin\nTech Organization: WHOIS IDCPrivacy Service c/o IDC (BVI) Limited\nTech Street: First Floor, 5 Greenwich View Place Visit www.idcprivacy.com to contact the domain contacts. Email to contact@idcprivacy.com for alternative instructions. \nTech City: London\nTech State/Province: London\nTech Postal Code: E14 9NN\nTech Country: GB\nTech Phone: +44.2030262854\nTech Phone Ext: \nTech Fax: \nTech Fax Ext: \nTech Email: contact@idcprivacy.com\nName Server: ns11.lampnetworks.com\nName Server: ns12.lampnetworks.com\nName Server: ns1.lampnetworks.com\nName Server: ns2.lampnetworks.com\nDNSSEC:Unsigned\nRegistrar Abuse Contact Email: abuse-whois-field@netearthone.com\nRegistrar Abuse Contact Phone: +44 02030 26 99 87",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-08-09 00:00:00",
+            "ip_address": "209.190.85.35"
+        }
+    ],
+    "detected_communicating_samples": [
+        {
+            "date": "2016-03-15 15:11:03",
+            "positives": 29,
+            "total": 56,
+            "sha256": "57f4b35aa0ce17fb44d3d65046b792234ad18a52df766b5810ad3d10166c637f"
+        },
+        {
+            "date": "2015-02-12 23:21:15",
+            "positives": 41,
+            "total": 57,
+            "sha256": "f5974d912b6379d6644515db33baff9fce15933fac7e376521b9ad609cbb0d67"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://autobrown.gofreeserve.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-01 06:25:29"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

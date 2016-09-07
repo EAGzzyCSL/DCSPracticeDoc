@@ -1,0 +1,72 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "Domain Name:                                 ACADEMYHOUSE.US\nDomain ID:                                   D49410539-US\nSponsoring Registrar:                        Dynadot LLC\nSponsoring Registrar IANA ID:                472\nRegistrar URL (registration services):       whois.dynadot.com\nDomain Status:                               clientTransferProhibited\nRegistrant ID:                               C-165222\nRegistrant Name:                             Authorized Representative\nRegistrant Organization:                     Kleissner  Associates s.r.o.\nRegistrant Address1:                         Na strzi 1702/65\nRegistrant City:                             Praha\nRegistrant Postal Code:                      140 00\nRegistrant Country:                          Czech Republic\nRegistrant Country Code:                     CZ\nRegistrant Phone Number:                     +420.00000000\nRegistrant Email:                            domains@virustracker.info\nRegistrant Application Purpose:              P1\nRegistrant Nexus Category:                   C32/CZ\nAdministrative Contact ID:                   C-165222\nAdministrative Contact Name:                 Authorized Representative\nAdministrative Contact Organization:         Kleissner  Associates s.r.o.\nAdministrative Contact Address1:             Na strzi 1702/65\nAdministrative Contact City:                 Praha\nAdministrative Contact Postal Code:          140 00\nAdministrative Contact Country:              Czech Republic\nAdministrative Contact Country Code:         CZ\nAdministrative Contact Phone Number:         +420.00000000\nAdministrative Contact Email:                domains@virustracker.info\nAdministrative Application Purpose:          P1\nAdministrative Nexus Category:               C32/CZ\nBilling Contact ID:                          C-165222\nBilling Contact Name:                        Authorized Representative\nBilling Contact Organization:                Kleissner  Associates s.r.o.\nBilling Contact Address1:                    Na strzi 1702/65\nBilling Contact City:                        Praha\nBilling Contact Postal Code:                 140 00\nBilling Contact Country:                     Czech Republic\nBilling Contact Country Code:                CZ\nBilling Contact Phone Number:                +420.00000000\nBilling Contact Email:                       domains@virustracker.info\nBilling Application Purpose:                 P1\nBilling Nexus Category:                      C32/CZ\nTechnical Contact ID:                        C-165222\nTechnical Contact Name:                      Authorized Representative\nTechnical Contact Organization:              Kleissner  Associates s.r.o.\nTechnical Contact Address1:                  Na strzi 1702/65\nTechnical Contact City:                      Praha\nTechnical Contact Postal Code:               140 00\nTechnical Contact Country:                   Czech Republic\nTechnical Contact Country Code:              CZ\nTechnical Contact Phone Number:              +420.00000000\nTechnical Contact Email:                     domains@virustracker.info\nTechnical Application Purpose:               P1\nTechnical Nexus Category:                    C32/CZ\nDNSSEC:                                      unsigned\nName Server:                                 NS1.DYNADOT.COM\nName Server:                                 NS2.DYNADOT.COM\nCreated by Registrar:                        Dynadot LLC\nLast Updated by Registrar:                   Dynadot LLC\nDomain Registration Date:                    Fri Apr 24 18:42:33 GMT 2015\nDomain Expiration Date:                      Sun Apr 23 23:59:59 GMT 2017\nDomain Last Updated Date:                    Fri Mar 25 10:51:36 GMT 2016\nName Value Pair:                             Variant=ACADEMYHOUSE.US",
+    "whois_timestamp": 1471884007.85809,
+    "response_code": 1,
+    "Dr.Web category": "known infection source",
+    "detected_referrer_samples": [
+        {
+            "positives": 50,
+            "total": 56,
+            "sha256": "f6982034b7ca7e535cc2b0af0bd081e131718d746dac82364ac0cd9702341d26"
+        },
+        {
+            "positives": 47,
+            "total": 55,
+            "sha256": "dfb116c2c4687fb27ec2c9252e9c5296708c0f201255b7abadaa68e488a60b2a"
+        }
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "web and email spam. bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "detected_urls": [
+        {
+            "url": "http://academyhouse.us/",
+            "positives": 3,
+            "total": 68,
+            "scan_date": "2016-07-12 14:38:50"
+        },
+        {
+            "url": "http://academyhouse.us/from/wincrng.exe",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-05-02 17:16:00"
+        },
+        {
+            "url": "http://academyhouse.us/test_test/test.exe",
+            "positives": 3,
+            "total": 66,
+            "scan_date": "2016-01-27 17:41:30"
+        }
+    ],
+    "subdomains": [
+        "ns1.academyhouse.us"
+    ],
+    "resolutions": [
+        {
+            "last_resolved": "2015-02-17 00:00:00",
+            "ip_address": "184.168.221.94"
+        },
+        {
+            "last_resolved": "2015-04-28 00:00:00",
+            "ip_address": "69.195.129.70"
+        },
+        {
+            "last_resolved": "2015-07-10 00:00:00",
+            "ip_address": "69.195.129.72"
+        },
+        {
+            "last_resolved": "2014-05-12 00:00:00",
+            "ip_address": "95.211.172.143"
+        }
+    ],
+    "categories": [
+        "known infection source",
+        "web and email spam. bot networks. advanced malware command and control"
+    ]
+}

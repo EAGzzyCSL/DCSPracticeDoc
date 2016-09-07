@@ -1,0 +1,65 @@
+{
+    "domain_siblings": [
+        "ww1.waldennetworks.com",
+        "ww2.waldennetworks.com",
+        "zuvukota.waldennetworks.com",
+        "vufoheje.waldennetworks.com",
+        "socawadi.waldennetworks.com",
+        "sahiqow.waldennetworks.com",
+        "goldblackfree.waldennetworks.com",
+        "dafunis.waldennetworks.com",
+        "www.waldennetworks.com",
+        "decerez.waldennetworks.com",
+        "dujigave.waldennetworks.com",
+        "doxaziw.waldennetworks.com",
+        "qixoteho.waldennetworks.com",
+        "juwufuq.waldennetworks.com",
+        "netiriq.waldennetworks.com",
+        "fapimat.waldennetworks.com",
+        "autostart.waldennetworks.com",
+        "dailybread.waldennetworks.com",
+        "updauganda.waldennetworks.com",
+        "updateitunes.waldennetworks.com",
+        "autoupdatefree.waldennetworks.com",
+        "popsblog.waldennetworks.com",
+        "goldblacktree.waldennetworks.com"
+    ],
+    "whois": "   Domain Name: WALDENNETWORKS.COM\n   Registrar: INTERNET DOMAIN SERVICE BS CORP\n   Sponsoring Registrar IANA ID: 2487\n   Whois Server: whois.internet.bs\n   Referral URL: http://www.internet.bs\n   Name Server: NS1.DOMAINMX.COM\n   Name Server: NS2.DOMAINMX.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 22-apr-2016\n   Creation Date: 21-mar-2009\n   Expiration Date: 21-mar-2017\n\nDomain Name: WALDENNETWORKS.COM\nRegistry Domain ID: 1548417604_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.internet.bs\nRegistrar URL: http://www.internetbs.net\nUpdated Date: 2016-04-22T08:34:31Z\nCreation Date: 2009-03-21T08:58:46Z\nRegistrar Registration Expiration Date: 2017-03-21T08:58:46Z\nRegistrar: Internet Domain Service BS Corp.\nRegistrar IANA ID: 2487\nRegistrar Abuse Contact Email: abuse@internet.bs\nRegistrar Abuse Contact Phone: +1.5167401179\nReseller: \nDomain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited\nRegistry Registrant ID: \nRegistrant Name: Domain Admin\nRegistrant Organization: Whois Privacy Corp.\nRegistrant Street: Ocean Centre, Montagu Foreshore, East Bay Street\nRegistrant City: Nassau\nRegistrant State/Province: New Providence\nRegistrant Postal Code: 0000\nRegistrant Country: BS\nRegistrant Phone: +1.5163872248\nRegistrant Phone Ext: \nRegistrant Fax: \nRegistrant Fax Ext: \nRegistrant Email: waldennetworks.com-owner@customers.whoisprivacycorp.com\nRegistry Admin ID: \nAdmin Name: Domain Admin\nAdmin Organization: Whois Privacy Corp.\nAdmin Street: Ocean Centre, Montagu Foreshore, East Bay Street\nAdmin City: Nassau\nAdmin State/Province: New Providence\nAdmin Postal Code: 0000\nAdmin Country: BS\nAdmin Phone: +1.5163872248\nAdmin Phone Ext: \nAdmin Fax: \nAdmin Fax Ext: \nAdmin Email: waldennetworks.com-admin@customers.whoisprivacycorp.com\nRegistry Tech ID: \nTech Name: Domain Admin\nTech Organization: Whois Privacy Corp.\nTech Street: Ocean Centre, Montagu Foreshore, East Bay Street\nTech City: Nassau\nTech State/Province: New Providence\nTech Postal Code: 0000\nTech Country: BS\nTech Phone: +1.5163872248\nTech Phone Ext: \nTech Fax: \nTech Fax Ext: \nTech Email: waldennetworks.com-tech@customers.whoisprivacycorp.com\nName Server: ns1.domainmx.com\nName Server: ns2.domainmx.com\nDNSSEC: unsigned",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. parked domain. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-11-12 00:00:00",
+            "ip_address": "185.53.178.6"
+        },
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "69.162.80.56"
+        },
+        {
+            "last_resolved": "2016-03-17 00:00:00",
+            "ip_address": "69.162.80.59"
+        },
+        {
+            "last_resolved": "2015-03-01 00:00:00",
+            "ip_address": "69.172.201.208"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://automatic.waldennetworks.com/",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-03-17 03:58:49"
+        }
+    ],
+    "categories": [
+        "bot networks. parked domain. advanced malware command and control"
+    ]
+}

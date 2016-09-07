@@ -1,0 +1,41 @@
+{
+    "domain_siblings": [],
+    "whois": "   Domain Name: ADOBEPLUGS.NET\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 29-jul-2016\n   Creation Date: 28-jul-2015\n   Expiration Date: 28-jul-2017\n\nYou have exceeded your access quota. Please try again later.",
+    "whois_timestamp": 1471884007.82429,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2016-08-02 00:00:00",
+            "ip_address": "52.4.209.250"
+        },
+        {
+            "last_resolved": "2015-08-02 00:00:00",
+            "ip_address": "69.195.129.72"
+        },
+        {
+            "last_resolved": "2014-09-10 00:00:00",
+            "ip_address": "95.211.172.143"
+        }
+    ],
+    "subdomains": [
+        "www.adobeplugs.net"
+    ],
+    "detected_urls": [
+        {
+            "url": "http://adobeplugs.net/",
+            "positives": 3,
+            "total": 68,
+            "scan_date": "2016-08-02 02:19:02"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

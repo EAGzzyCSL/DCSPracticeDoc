@@ -1,0 +1,72 @@
+{
+    "domain_siblings": [
+        "dikidiki.icr38.net",
+        "bangbang.icr38.net",
+        "uuppgrade10.icr38.net",
+        "jdgertgb.icr38.net",
+        "xq2.icr38.net",
+        "affiliate.icr38.net",
+        "x2family.icr38.net",
+        "timetomson.icr38.net",
+        "automation.icr38.net",
+        "updatepatch.icr38.net",
+        "hotemup.icr38.net",
+        "ww1.serviceupd.icr38.net",
+        "ww1.pagespayfees.icr38.net",
+        "ww1.accesslogin.icr38.net",
+        "gh48393.icr38.net",
+        "musicvideos.icr38.net",
+        "verified.icr38.net",
+        "rt67865.icr38.net",
+        "gajagogo.icr38.net",
+        "accountban.icr38.net",
+        "a583291.icr38.net",
+        "accessupd.icr38.net",
+        "verifaccct.icr38.net"
+    ],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "   Domain Name: ICR38.NET\n   Registrar: NAME.COM, INC.\n   Sponsoring Registrar IANA ID: 625\n   Whois Server: whois.name.com\n   Referral URL: http://www.name.com\n   Name Server: NS1STV.NAME.COM\n   Name Server: NS2JQZ.NAME.COM\n   Name Server: NS3DKZ.NAME.COM\n   Name Server: NS4LQX.NAME.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 13-apr-2016\n   Creation Date: 05-nov-2007\n   Expiration Date: 05-nov-2016\n\nToo many connection attempts. Please try again in a few seconds.",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. parked domain. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-06-19 00:00:00",
+            "ip_address": "69.43.161.132"
+        },
+        {
+            "last_resolved": "2014-12-09 00:00:00",
+            "ip_address": "8.5.1.51"
+        },
+        {
+            "last_resolved": "2013-04-01 00:00:00",
+            "ip_address": "82.98.86.161"
+        },
+        {
+            "last_resolved": "2014-02-13 00:00:00",
+            "ip_address": "82.98.86.162"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://auto2115.icr38.net/patch/chkupdate.php",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-23 06:18:11"
+        },
+        {
+            "url": "http://auto2115.icr38.net/",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-03-17 02:02:25"
+        }
+    ],
+    "categories": [
+        "bot networks. parked domain. advanced malware command and control"
+    ]
+}

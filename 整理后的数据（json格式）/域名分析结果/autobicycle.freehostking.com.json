@@ -1,0 +1,51 @@
+{
+    "domain_siblings": [
+        "angelichaqu.freehostking.com",
+        "patipezy.freehostking.com",
+        "gg2327.freehostking.com",
+        "xarirker.freehostking.com",
+        "rurtlwj.freehostking.com"
+    ],
+    "whois": "   Domain Name: FREEHOSTKING.COM\n   Registrar: GODADDY.COM, LLC\n   Sponsoring Registrar IANA ID: 146\n   Whois Server: whois.godaddy.com\n   Referral URL: http://www.godaddy.com\n   Name Server: NS1.FREEHOSTKING.COM\n   Name Server: NS2.FREEHOSTKING.COM\n   Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\n   Updated Date: 23-oct-2015\n   Creation Date: 23-oct-2008\n   Expiration Date: 23-oct-2016\n\nDomain Name: FREEHOSTKING.COM\nRegistrar URL: http://www.godaddy.com\nRegistrant Name: Whois Agent\nRegistrant Organization: Whois Privacy Protection Service, Inc.\nName Server: NS1.FREEHOSTKING.COM\nName Server: NS2.FREEHOSTKING.COM\nDNSSEC: unsigned\n\nhttp://who.godaddy.com/whoischeck.aspx?domain=FREEHOSTKING.COM",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "184.168.221.33"
+        },
+        {
+            "last_resolved": "2014-11-22 00:00:00",
+            "ip_address": "184.168.221.34"
+        },
+        {
+            "last_resolved": "2014-11-22 00:00:00",
+            "ip_address": "184.168.221.47"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "184.168.221.51"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "184.168.221.61"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://autobicycle.freehostking.com/",
+            "positives": 4,
+            "total": 67,
+            "scan_date": "2016-06-19 17:19:15"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

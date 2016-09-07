@@ -1,0 +1,81 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "whois": "   Domain Name: AUTOGEREMYS.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 11-jun-2016\n   Creation Date: 10-jun-2015\n   Expiration Date: 10-jun-2017\n\nYou have exceeded your access quota. Please try again later.",
+    "whois_timestamp": 1466561657.89898,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-09-21 00:00:00",
+            "ip_address": "173.249.151.182"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "208.73.210.200"
+        },
+        {
+            "last_resolved": "2014-11-04 00:00:00",
+            "ip_address": "208.73.210.204"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "208.73.210.214"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "208.73.210.217"
+        },
+        {
+            "last_resolved": "2014-11-04 00:00:00",
+            "ip_address": "208.73.211.164"
+        },
+        {
+            "last_resolved": "2014-11-04 00:00:00",
+            "ip_address": "208.73.211.177"
+        },
+        {
+            "last_resolved": "2015-03-17 00:00:00",
+            "ip_address": "208.73.211.178"
+        },
+        {
+            "last_resolved": "2014-11-04 00:00:00",
+            "ip_address": "208.73.211.195"
+        },
+        {
+            "last_resolved": "2014-11-04 00:00:00",
+            "ip_address": "208.73.211.239"
+        },
+        {
+            "last_resolved": "2015-06-15 00:00:00",
+            "ip_address": "69.195.129.70"
+        },
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://autogeremys.com/major/images/view.php",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-30 09:53:38"
+        },
+        {
+            "url": "http://autogeremys.com/",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-03-17 03:59:27"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "domain_siblings": [],
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "undetected_downloaded_samples": [
+        {
+            "date": "2015-01-18 13:56:31",
+            "positives": 0,
+            "total": 52,
+            "sha256": "4e03246fc1272ab91f09bd8feaa5d49f8792e3cdf8c3b58073a83260d71424ca"
+        }
+    ],
+    "whois": "   Domain Name: 163SERVICES.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited\n   Updated Date: 30-apr-2015\n   Creation Date: 30-apr-2015\n   Expiration Date: 30-apr-2016\n\nYou have exceeded your access quota. Please try again later.",
+    "whois_timestamp": 1458187761.92283,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2015-03-16 00:00:00",
+            "ip_address": "50.63.202.74"
+        },
+        {
+            "last_resolved": "2015-05-30 00:00:00",
+            "ip_address": "69.195.129.70"
+        },
+        {
+            "last_resolved": "2015-08-11 00:00:00",
+            "ip_address": "69.195.129.72"
+        },
+        {
+            "last_resolved": "2014-02-16 00:00:00",
+            "ip_address": "81.166.122.234"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://163services.com/",
+            "positives": 2,
+            "total": 68,
+            "scan_date": "2016-08-31 03:16:23"
+        },
+        {
+            "url": "http://163services.com/info/read.php",
+            "positives": 6,
+            "total": 61,
+            "scan_date": "2015-01-18 13:56:28"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}

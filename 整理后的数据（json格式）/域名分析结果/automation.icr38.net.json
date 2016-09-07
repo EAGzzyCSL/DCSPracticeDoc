@@ -1,0 +1,59 @@
+{
+    "domain_siblings": [
+        "dikidiki.icr38.net",
+        "bangbang.icr38.net",
+        "uuppgrade10.icr38.net",
+        "jdgertgb.icr38.net",
+        "xq2.icr38.net",
+        "affiliate.icr38.net",
+        "x2family.icr38.net",
+        "timetomson.icr38.net",
+        "updatepatch.icr38.net",
+        "hotemup.icr38.net",
+        "ww1.serviceupd.icr38.net",
+        "ww1.pagespayfees.icr38.net",
+        "ww1.accesslogin.icr38.net",
+        "gh48393.icr38.net",
+        "musicvideos.icr38.net",
+        "verified.icr38.net",
+        "rt67865.icr38.net",
+        "gajagogo.icr38.net",
+        "accountban.icr38.net",
+        "a583291.icr38.net",
+        "accessupd.icr38.net",
+        "verifaccct.icr38.net",
+        "auto2115.icr38.net"
+    ],
+    "whois": "   Domain Name: ICR38.NET\n   Registrar: NAME.COM, INC.\n   Sponsoring Registrar IANA ID: 625\n   Whois Server: whois.name.com\n   Referral URL: http://www.name.com\n   Name Server: NS1STV.NAME.COM\n   Name Server: NS2JQZ.NAME.COM\n   Name Server: NS3DKZ.NAME.COM\n   Name Server: NS4LQX.NAME.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 13-apr-2016\n   Creation Date: 05-nov-2007\n   Expiration Date: 05-nov-2016\n\nToo many connection attempts. Please try again in a few seconds.",
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. parked domain. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2013-04-15 00:00:00",
+            "ip_address": "8.5.1.51"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://automation.icr38.net/",
+            "positives": 5,
+            "total": 67,
+            "scan_date": "2016-06-29 02:42:12"
+        },
+        {
+            "url": "http://automation.icr38.net/patch/chkupdate.php?a1=SEllOzwiN3pQLzoMFA==&a2=aa8357127e1758e6ad10446014552ed6&a3=RBsidmgUPjtdGzwdCWpybBgMLR4HBQYOMzU3CQIEAA0SGD4tPDMiLBIrb1BLfnh1ZXUeOXBpBGxcKlprGGttd1gwPjwtK28aVG4XHRQkYB5laT8bG2kCf1FLSH94axt/WDlwe2Zzdw81NHMaCXRoHzU6CC4jaQgfRlo3Ii45Ij4XHyRoHy4pLBI5PFgjGmhkHywOPScqImwsGxkgbXhkcRoLbmgGIjNoHi89HFtwaH18Z0xlfGd2eVxaUh0Pcn58SU5menlqf307fgs9THNoYmJnUmVgeGl8XFpaa20dDwIgWRgJGgMDAS4FZkQZOHY=",
+            "positives": 4,
+            "total": 63,
+            "scan_date": "2015-08-24 00:37:29"
+        }
+    ],
+    "categories": [
+        "bot networks. parked domain. advanced malware command and control"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "domain_siblings": [],
+    "whois": "   Domain Name: ADOBEUPDATES.COM\n   Registrar: GODADDY.COM, LLC\n   Sponsoring Registrar IANA ID: 146\n   Whois Server: whois.godaddy.com\n   Referral URL: http://www.godaddy.com\n   Name Server: NS1.BODIS.COM\n   Name Server: NS2.BODIS.COM\n   Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\n   Updated Date: 14-sep-2015\n   Creation Date: 13-sep-2006\n   Expiration Date: 13-sep-2016\n\nDomain Name: ADOBEUPDATES.COM\nRegistrar URL: http://www.godaddy.com\nRegistrant Name: Scott Kovalik\nRegistrant Organization: \nName Server: NS1.BODIS.COM\nName Server: NS2.BODIS.COM\nDNSSEC: unsigned\n\nhttp://who.godaddy.com/whoischeck.aspx?domain=ADOBEUPDATES.COM",
+    "whois_timestamp": 1468398933.98642,
+    "response_code": 1,
+    "Dr.Web category": "not recommended site",
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "uncategorized",
+    "Webutation domain info": {
+        "Verdict": "unsure",
+        "Adult content": "no",
+        "Safety score": 70
+    },
+    "detected_urls": [
+        {
+            "url": "http://adobeupdates.com/",
+            "positives": 3,
+            "total": 68,
+            "scan_date": "2016-08-11 09:38:08"
+        }
+    ],
+    "resolutions": [
+        {
+            "last_resolved": "2014-11-11 00:00:00",
+            "ip_address": "199.59.243.117"
+        },
+        {
+            "last_resolved": "2014-11-11 00:00:00",
+            "ip_address": "199.59.243.118"
+        },
+        {
+            "last_resolved": "2014-11-11 00:00:00",
+            "ip_address": "199.59.243.119"
+        },
+        {
+            "last_resolved": "2014-11-11 00:00:00",
+            "ip_address": "199.59.243.120"
+        },
+        {
+            "last_resolved": "2014-11-11 00:00:00",
+            "ip_address": "199.59.243.121"
+        }
+    ],
+    "categories": [
+        "not recommended site",
+        "uncategorized"
+    ]
+}

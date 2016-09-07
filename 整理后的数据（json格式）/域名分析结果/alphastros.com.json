@@ -1,0 +1,34 @@
+{
+    "domain_siblings": [],
+    "whois": "   Domain Name: ALPHASTROS.COM\n   Registrar: DYNADOT, LLC\n   Sponsoring Registrar IANA ID: 472\n   Whois Server: whois.dynadot.com\n   Referral URL: http://www.dynadot.com\n   Name Server: NS1.DYNADOT.COM\n   Name Server: NS2.DYNADOT.COM\n   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Updated Date: 05-feb-2016\n   Creation Date: 06-mar-2015\n   Expiration Date: 06-mar-2017\n\nYou have exceeded your access quota. Please try again later.",
+    "whois_timestamp": 1467000991.50773,
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "Websense ThreatSeeker category": "bot networks. advanced malware command and control",
+    "Webutation domain info": {
+        "Safety score": 70,
+        "Adult content": "no",
+        "Verdict": "unsure"
+    },
+    "resolutions": [
+        {
+            "last_resolved": "2014-11-12 00:00:00",
+            "ip_address": "23.239.159.22"
+        },
+        {
+            "last_resolved": "2015-03-10 00:00:00",
+            "ip_address": "69.195.129.72"
+        }
+    ],
+    "detected_urls": [
+        {
+            "url": "http://alphastros.com/",
+            "positives": 4,
+            "total": 68,
+            "scan_date": "2016-08-01 01:25:02"
+        }
+    ],
+    "categories": [
+        "bot networks. advanced malware command and control"
+    ]
+}
