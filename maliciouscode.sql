@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 2016-09-23 04:55:27
+-- Generation Time: 2016-09-24 08:45:35
 -- 服务器版本： 5.6.17
 -- PHP Version: 5.5.12
 
@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `qs`
+-- Database: `maliciouscode`
 --
-CREATE DATABASE IF NOT EXISTS `qs` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `qs`;
+CREATE DATABASE IF NOT EXISTS `maliciouscode` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `maliciouscode`;
 
 -- --------------------------------------------------------
 
@@ -4624,6 +4624,86 @@ INSERT INTO `ip` (`IP_ID`, `IP_Info`, `IP_Tag`) VALUES
 -- --------------------------------------------------------
 
 --
+-- 表的结构 `mailbox`
+--
+
+CREATE TABLE IF NOT EXISTS `mailbox` (
+  `M_ID` int(12) NOT NULL AUTO_INCREMENT,
+  `Mailbox` varchar(128) NOT NULL,
+  PRIMARY KEY (`M_ID`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=20 ;
+
+--
+-- 转存表中的数据 `mailbox`
+--
+
+INSERT INTO `mailbox` (`M_ID`, `Mailbox`) VALUES
+(1, 'domains@virustracker.info'),
+(2, 'domains@no-ip.com'),
+(3, 'flashserv.net@domainprivacy.rethemhosting.net'),
+(4, 'hostorgadmin@googlemail.com'),
+(5, 'auto24col.info@domainsbyproxy.com'),
+(6, 'yaahosting.info@domainsbyproxy.com'),
+(7, 'tabtab3688@yahoo.com'),
+(8, '311307@privacy-link.com'),
+(9, 'contact@idcprivacy.com'),
+(10, 'hostmaster@afraid.org'),
+(11, 'contact@privacyprotect.org'),
+(12, 'privacy@bizmail.com'),
+(13, 'goldthumb@rocketmail.com'),
+(14, 'contact@x19.biz'),
+(15, 'info@host1plus.com'),
+(16, 'sales@supportindeed.com'),
+(17, 'waldennetworks.com-owner@customers.whoisprivacycorp.com'),
+(18, 'justin.philipson@gmail.com'),
+(19, '309206@privacy-link.com');
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `md`
+--
+
+CREATE TABLE IF NOT EXISTS `md` (
+  `M_ID` int(12) NOT NULL,
+  `D_ID` int(12) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `md`
+--
+
+INSERT INTO `md` (`M_ID`, `D_ID`) VALUES
+(1, 1),
+(1, 102),
+(1, 103),
+(2, 105),
+(1, 207),
+(3, 210),
+(1, 244),
+(4, 273),
+(5, 373),
+(6, 477),
+(7, 480),
+(8, 505),
+(9, 707),
+(10, 828),
+(11, 930),
+(2, 940),
+(12, 1144),
+(13, 1171),
+(14, 1175),
+(15, 1276),
+(16, 1280),
+(10, 1381),
+(2, 1482),
+(17, 1584),
+(18, 1609),
+(19, 1710);
+
+-- --------------------------------------------------------
+
+--
 -- 表的结构 `mutex`
 --
 
@@ -5298,6 +5378,82 @@ INSERT INTO `process` (`S_ID`, `P_Name`, `P_Pid`) VALUES
 (29, 'KernelMode.info_f8bad600e5586dc3a0c924db4923c6f8f7fefdfe47d2605a59379da8b8291fc0.exe', 236),
 (48, 'DarkHotel_ a80d9b04a2a68890c61c7c06067790139e9a1c0ebfb87ab6f3b441df9b61d16b_dropped_file_e7d65f2e23e', 1880),
 (42, 'fba02f3d549d99980190ef48d65b8002640cc12a134241edbe38bc04d77c9c2f.exe', 232);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `rd`
+--
+
+CREATE TABLE IF NOT EXISTS `rd` (
+  `R_ID` int(12) NOT NULL,
+  `D_ID` int(12) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `rd`
+--
+
+INSERT INTO `rd` (`R_ID`, `D_ID`) VALUES
+(1, 105),
+(2, 210),
+(3, 239),
+(4, 373),
+(5, 375),
+(4, 477),
+(6, 480),
+(7, 498),
+(8, 505),
+(9, 606),
+(10, 725),
+(11, 828),
+(1, 940),
+(5, 1042),
+(12, 1144),
+(13, 1171),
+(14, 1175),
+(15, 1276),
+(16, 1280),
+(11, 1381),
+(1, 1482),
+(17, 1609),
+(18, 1710);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `registrar`
+--
+
+CREATE TABLE IF NOT EXISTS `registrar` (
+  `R_ID` int(12) NOT NULL AUTO_INCREMENT,
+  `Registrar` varchar(128) NOT NULL,
+  PRIMARY KEY (`R_ID`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=19 ;
+
+--
+-- 转存表中的数据 `registrar`
+--
+
+INSERT INTO `registrar` (`R_ID`, `Registrar`) VALUES
+(1, 'domain operations no-ip.com'),
+(2, 'whois privacy'),
+(3, 'scott kovalik'),
+(4, 'registration private'),
+(5, 'kyriakos kyriako'),
+(6, 'wang changhong'),
+(7, 'whois agent'),
+(8, 'privacydotlink customer 311307'),
+(9, 'vu viet hung'),
+(10, 'raimo nisikigi'),
+(11, 'joshua anderson'),
+(12, 'privacy protection'),
+(13, 'philip greiner'),
+(14, 'ian donovan'),
+(15, 'host1plus webmaster'),
+(16, 'customer service'),
+(17, 'justin philipson'),
+(18, 'privacydotlink customer 309206');
 
 -- --------------------------------------------------------
 
@@ -8048,6 +8204,18 @@ INSERT INTO `sd` (`D_ID`, `IP_ID`, `S_ID`) VALUES
 (NULL, 31, 154),
 (NULL, 31, 155),
 (NULL, 31, 156);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `test`
+--
+
+CREATE TABLE IF NOT EXISTS `test` (
+  `id` int(11) NOT NULL,
+  `name` varchar(32) NOT NULL,
+  `sex` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
